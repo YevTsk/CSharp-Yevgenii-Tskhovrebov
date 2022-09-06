@@ -19,11 +19,11 @@ namespace Homework_1
             int s = a * b;
             int p = (a + b) * 2;
             Console.WriteLine("-------------------");
-            Console.WriteLine("Area: умножить длину на ширину");
+            Console.WriteLine("Area: умножить длину на ширину!");
             Console.WriteLine($"{a} * {b} = {s}");
             Console.WriteLine($"Area = {s}");
             Console.WriteLine("-------------------");
-            Console.WriteLine("Perimeter: сложить длины всех его сторон");
+            Console.WriteLine("Perimeter: сложить длины всех его сторон!");
             Console.WriteLine($"({a} + {b})*{2} = {p}");
             Console.WriteLine($"Perimeter = {p}");
             Console.WriteLine("-------------_--_----");
