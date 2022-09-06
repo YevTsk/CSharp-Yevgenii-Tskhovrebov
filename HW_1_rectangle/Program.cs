@@ -26,7 +26,7 @@ namespace Homework_1
             Console.WriteLine("Perimeter: сложить длины всех его сторон");
             Console.WriteLine($"({a} + {b})*{2} = {p}");
             Console.WriteLine($"Perimeter = {p}");
-            Console.WriteLine("-------------_------");
+            Console.WriteLine("-------------_--_----");
 
 
         }
